@@ -4,7 +4,7 @@ zip="https://kodi7rd.github.io/wizard/plugin.program.kodirealdebridisraelwizard-
 
 name="בילד סקין Estuary - telemedia"
 version="3.1.7"
-url="https://github.com/akunh121/TelemediaBuild/raw/main/TelemediaBuild1.zip"
+url="https://drive.google.com/file/d/1uWAFrDh6U8iZ5Tmex_RHgivWbQSt905A/view?usp=sharing"
 minor="https://"
 gui="https://kodi7rd.github.io/builds/build20_skin_Estuary/build20_skin_Estuary-3.1.7-Quick-Update.zip"
 kodi="20.0"
